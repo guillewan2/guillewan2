@@ -5,9 +5,13 @@
     &nbsp;Hi! / こんにちは！&nbsp;
     <img src="https://media.tenor.com/XgHyWyO2BqAAAAAM/kaoruhanawarintosaku-kaoruko.gif" width="30px">
   </h1>
-  
+  <div align="center">
+  <a href="https://youtu.be/A7cp6OVa0Qc">
+    <img src="https://media1.tenor.com/m/Qd-TJzXtsmEAAAAC/hina-chono-blue-box.gif" alt="Hina Chono Blue Box GIF" width="350px">
+  </a>
+</div>
+  <br>
   <p>Welcome to my space! I really don't know what to say here but welcome. I'm trying to get better at what I like :)</p>
-
   <p>
     <a href="https://www.linkedin.com/in/guits06/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
