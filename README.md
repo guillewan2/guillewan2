@@ -1,14 +1,9 @@
 <div align="center">
 
   <h1>
-    <img src="https://media.tenor.com/XgHyWyO2BqAAAAAM/kaoruhanawarintosaku-kaoruko.gif" width="30px">
     &nbsp;Hi! / こんにちは！&nbsp;
-    <img src="https://media.tenor.com/XgHyWyO2BqAAAAAM/kaoruhanawarintosaku-kaoruko.gif" width="30px">
   </h1>
   <div align="center">
-  <a href="https://youtu.be/A7cp6OVa0Qc">
-    <img src="https://media1.tenor.com/m/Qd-TJzXtsmEAAAAC/hina-chono-blue-box.gif" alt="Hina Chono Blue Box GIF" width="350px">
-  </a>
 </div>
   <br>
   <p>Welcome to my space! I really don't know what to say here but welcome. I'm trying to get better at what I like :)</p>
